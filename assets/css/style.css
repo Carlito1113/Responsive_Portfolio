@@ -5,3 +5,7 @@ body {
 .borderLad{
     border: 3px solid black;
 }
+
+.btn{
+    margin-bottom: 10px;
+}
