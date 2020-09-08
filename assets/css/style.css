@@ -8,6 +8,7 @@ body {
 
 .btn{
     margin-bottom: 10px;
+    background-color: #0049B7;
 }
 
 .portfolioImage{
@@ -16,12 +17,29 @@ body {
 
 .image-text {
     text-align: center;
-    background-color: black;
+    background-color: #0049B7;
     color: white;
-    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     padding: 5px;
     width: 200px;
     position: absolute;
     bottom: 20px;
+}
+
+.newClass{
+    margin-bottom: 60px;
+    border: 1px;
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    background-color: #0049B7;
+    color: white;
+}
+
+.navbar-brand{
+    background-color: #0049B7;
 }
