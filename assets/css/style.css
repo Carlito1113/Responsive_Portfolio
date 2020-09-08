@@ -9,3 +9,19 @@ body {
 .btn{
     margin-bottom: 10px;
 }
+
+.portfolioImage{
+    margin: 10px;
+}
+
+.image-text {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 5px;
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+}
