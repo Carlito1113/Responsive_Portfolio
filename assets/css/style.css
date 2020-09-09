@@ -1,43 +1,41 @@
 body {
-    background-image: url(../images/y-so-serious.png)
+  background-image: url(../images/y-so-serious.png);
 }
 
-.borderLad{
-    border: 3px solid black;
+.borderLad {
+  border: 3px solid black;
 }
 
-.btn{
-    margin-bottom: 10px;
-    background-color: #0049B7;
+.btn {
+  margin-bottom: 10px;
+  background-color: #0049b7;
 }
 
-.portfolioImage{
-    margin: 10px;
+.portfolioImage {
+  margin: 10px;
 }
 
 .image-text {
-    text-align: center;
-    background-color: #0049B7;
-    color: white;
-    font-size: 20px;
-    padding: 5px;
-    width: 200px;
-    position: absolute;
-    bottom: 20px;
+  text-align: center;
+  background-color: #0049b7;
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+  width: 200px;
+  position: absolute;
+  bottom: 20px;
 }
 
-.newClass{
-    margin-bottom: 60px;
-    border: 1px;
+.newClass {
+  margin-bottom: 60px;
+  border: 1px;
 }
 
-footer{
-    position: fixed;
-    width: 100%;
-    bottom: 0px;
-    text-align: center;
-    background-color: #0049B7;
-    color: white;
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+  text-align: center;
+  background-color: #0049b7;
+  color: white;
 }
-
-
