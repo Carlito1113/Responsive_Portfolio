@@ -37,6 +37,7 @@ footer {
   text-align: center;
   background-color: #c89666;
   color: black;
+  border-top: 5px solid white;
 }
 
 .navbar-brand {
