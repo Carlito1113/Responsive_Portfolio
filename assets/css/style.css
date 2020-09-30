@@ -12,8 +12,8 @@ body {
 
 .portfolioImage {
   margin: 10px;
-  height:200px;
-  width: 200px;
+  height:300px;
+  width: 300px;
 }
 
 .image-text {
@@ -48,4 +48,8 @@ footer {
 
 .navbar {
   padding-bottom: 0px;
+}
+
+#bigWords {
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
