@@ -16,6 +16,11 @@ body {
   width: 300px;
 }
 
+.aboutMeImage {
+  height: 200px;
+  width: 200px;
+}
+
 .image-text {
   text-align: center;
   background-color: #c89666;
