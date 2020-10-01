@@ -38,13 +38,14 @@ body {
 }
 
 footer {
-  position: fixed;
+  position: relative;
   width: 100%;
   bottom: 0px;
   text-align: center;
   background-color: #c89666;
   color: black;
   border-top: 5px solid white;
+  margin-top: 10px;
 }
 
 .navbar-brand {
@@ -71,8 +72,3 @@ footer {
   list-style-type: none;
 }
 
-footer {
-  position: relative;
-  margin-top: 10px;
-  bottom: 0;
-}
