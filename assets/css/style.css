@@ -70,3 +70,9 @@ footer {
 .list {
   list-style-type: none;
 }
+
+footer {
+  position: relative;
+  margin-top: 10px;
+  bottom: 0;
+}
