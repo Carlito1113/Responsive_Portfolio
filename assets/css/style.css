@@ -67,3 +67,6 @@ footer {
   font-size: 30px;
 }
 
+.list {
+  list-style-type: none;
+}
